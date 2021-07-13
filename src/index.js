@@ -13,7 +13,7 @@ import {
 
 // 2
 const httpLink = createHttpLink({
-  uri: 'http://localhost:4000/graphql'
+  uri: 'https://books-gql-server.vercel.app/graphql'
 });
 
 // 3
