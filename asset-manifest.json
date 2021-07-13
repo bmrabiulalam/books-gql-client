@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/books-gql-client/static/css/main.24d2bbac.chunk.css",
+    "main.js": "/books-gql-client/static/js/main.7c15223a.chunk.js",
+    "main.js.map": "/books-gql-client/static/js/main.7c15223a.chunk.js.map",
+    "runtime-main.js": "/books-gql-client/static/js/runtime-main.eccb068f.js",
+    "runtime-main.js.map": "/books-gql-client/static/js/runtime-main.eccb068f.js.map",
+    "static/js/2.3b7bad6d.chunk.js": "/books-gql-client/static/js/2.3b7bad6d.chunk.js",
+    "static/js/2.3b7bad6d.chunk.js.map": "/books-gql-client/static/js/2.3b7bad6d.chunk.js.map",
+    "static/js/3.b11dd636.chunk.js": "/books-gql-client/static/js/3.b11dd636.chunk.js",
+    "static/js/3.b11dd636.chunk.js.map": "/books-gql-client/static/js/3.b11dd636.chunk.js.map",
+    "index.html": "/books-gql-client/index.html",
+    "static/css/main.24d2bbac.chunk.css.map": "/books-gql-client/static/css/main.24d2bbac.chunk.css.map",
+    "static/js/2.3b7bad6d.chunk.js.LICENSE.txt": "/books-gql-client/static/js/2.3b7bad6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eccb068f.js",
+    "static/js/2.3b7bad6d.chunk.js",
+    "static/css/main.24d2bbac.chunk.css",
+    "static/js/main.7c15223a.chunk.js"
+  ]
+}
